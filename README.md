@@ -1,2 +1,2 @@
 # ag-snippets
-Reusable HTML/CSS/JS “AG components
+reusable HTML/CSS/JS snippets
